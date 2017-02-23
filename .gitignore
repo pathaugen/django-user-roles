@@ -4,3 +4,8 @@ dist/
 build/
 .tox/
 *.egg-info/
+
+# Ignore Eclipse PyDev files
+.project
+.pydevproject
+.settings
